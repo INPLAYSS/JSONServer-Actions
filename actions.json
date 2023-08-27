@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Company A",
+      "boughtPrice": 100,
+      "actualPrice": 110,
+      "trend": "Up",
+      "lastClosePrice": 105,
+      "openPrice": 106,
+      "stopLoss": 95
+    },
+    {
+      "name": "Company B",
+      "boughtPrice": 50,
+      "actualPrice": 45,
+      "trend": "Down",
+      "lastClosePrice": 48,
+      "openPrice": 47,
+      "stopLoss": 42
+    },
+    {
+      "name": "Company C",
+      "boughtPrice": 75,
+      "actualPrice": 80,
+      "trend": "Up",
+      "lastClosePrice": 78,
+      "openPrice": 76,
+      "stopLoss": 70
+    }
+  ]
+  
